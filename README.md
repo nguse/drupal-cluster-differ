@@ -119,4 +119,4 @@ If you wish to run this natively on your workstation, install the perl dependenc
 
 Then you can run the script:  
 
-`./differ.pl`  
+`./diff.pl`  
